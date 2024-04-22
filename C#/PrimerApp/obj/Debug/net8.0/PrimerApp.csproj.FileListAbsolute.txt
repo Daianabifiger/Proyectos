@@ -1,0 +1,14 @@
+C:\Users\bifig\Desktop\Facultad dai\C#\PrimerApp\bin\Debug\net8.0\PrimerApp.exe
+C:\Users\bifig\Desktop\Facultad dai\C#\PrimerApp\bin\Debug\net8.0\PrimerApp.deps.json
+C:\Users\bifig\Desktop\Facultad dai\C#\PrimerApp\bin\Debug\net8.0\PrimerApp.runtimeconfig.json
+C:\Users\bifig\Desktop\Facultad dai\C#\PrimerApp\bin\Debug\net8.0\PrimerApp.dll
+C:\Users\bifig\Desktop\Facultad dai\C#\PrimerApp\bin\Debug\net8.0\PrimerApp.pdb
+C:\Users\bifig\Desktop\Facultad dai\C#\PrimerApp\obj\Debug\net8.0\PrimerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bifig\Desktop\Facultad dai\C#\PrimerApp\obj\Debug\net8.0\PrimerApp.AssemblyInfoInputs.cache
+C:\Users\bifig\Desktop\Facultad dai\C#\PrimerApp\obj\Debug\net8.0\PrimerApp.AssemblyInfo.cs
+C:\Users\bifig\Desktop\Facultad dai\C#\PrimerApp\obj\Debug\net8.0\PrimerApp.csproj.CoreCompileInputs.cache
+C:\Users\bifig\Desktop\Facultad dai\C#\PrimerApp\obj\Debug\net8.0\PrimerApp.dll
+C:\Users\bifig\Desktop\Facultad dai\C#\PrimerApp\obj\Debug\net8.0\refint\PrimerApp.dll
+C:\Users\bifig\Desktop\Facultad dai\C#\PrimerApp\obj\Debug\net8.0\PrimerApp.pdb
+C:\Users\bifig\Desktop\Facultad dai\C#\PrimerApp\obj\Debug\net8.0\PrimerApp.genruntimeconfig.cache
+C:\Users\bifig\Desktop\Facultad dai\C#\PrimerApp\obj\Debug\net8.0\ref\PrimerApp.dll
