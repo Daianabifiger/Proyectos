@@ -1,0 +1,15 @@
+C:\Users\bifig\Documents\GitHub\Proyectos\C#\Clase 01\Desafio1NombreApellido\obj\Debug\net8.0\Desafio1NombreApellido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bifig\Documents\GitHub\Proyectos\C#\Clase 01\Desafio1NombreApellido\obj\Debug\net8.0\Desafio1NombreApellido.AssemblyInfoInputs.cache
+C:\Users\bifig\Documents\GitHub\Proyectos\C#\Clase 01\Desafio1NombreApellido\obj\Debug\net8.0\Desafio1NombreApellido.AssemblyInfo.cs
+C:\Users\bifig\Documents\GitHub\Proyectos\C#\Clase 01\Desafio1NombreApellido\obj\Debug\net8.0\Desafio1NombreApellido.csproj.CoreCompileInputs.cache
+C:\Users\bifig\Documents\GitHub\Proyectos\C#\Clase 01\Desafio1NombreApellido\obj\Debug\net8.0\Desafio1NombreApellido.sourcelink.json
+C:\Users\bifig\Documents\GitHub\Proyectos\C#\Clase 01\Desafio1NombreApellido\bin\Debug\net8.0\Desafio1NombreApellido.exe
+C:\Users\bifig\Documents\GitHub\Proyectos\C#\Clase 01\Desafio1NombreApellido\bin\Debug\net8.0\Desafio1NombreApellido.deps.json
+C:\Users\bifig\Documents\GitHub\Proyectos\C#\Clase 01\Desafio1NombreApellido\bin\Debug\net8.0\Desafio1NombreApellido.runtimeconfig.json
+C:\Users\bifig\Documents\GitHub\Proyectos\C#\Clase 01\Desafio1NombreApellido\bin\Debug\net8.0\Desafio1NombreApellido.dll
+C:\Users\bifig\Documents\GitHub\Proyectos\C#\Clase 01\Desafio1NombreApellido\bin\Debug\net8.0\Desafio1NombreApellido.pdb
+C:\Users\bifig\Documents\GitHub\Proyectos\C#\Clase 01\Desafio1NombreApellido\obj\Debug\net8.0\Desafio1NombreApellido.dll
+C:\Users\bifig\Documents\GitHub\Proyectos\C#\Clase 01\Desafio1NombreApellido\obj\Debug\net8.0\refint\Desafio1NombreApellido.dll
+C:\Users\bifig\Documents\GitHub\Proyectos\C#\Clase 01\Desafio1NombreApellido\obj\Debug\net8.0\Desafio1NombreApellido.pdb
+C:\Users\bifig\Documents\GitHub\Proyectos\C#\Clase 01\Desafio1NombreApellido\obj\Debug\net8.0\Desafio1NombreApellido.genruntimeconfig.cache
+C:\Users\bifig\Documents\GitHub\Proyectos\C#\Clase 01\Desafio1NombreApellido\obj\Debug\net8.0\ref\Desafio1NombreApellido.dll

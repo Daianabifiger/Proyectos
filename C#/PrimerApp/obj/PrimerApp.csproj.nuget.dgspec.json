@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bifig\\Desktop\\Facultad dai\\C#\\PrimerApp\\PrimerApp.csproj": {}
+    "C:\\Users\\bifig\\Documents\\GitHub\\Proyectos\\C#\\PrimerApp\\PrimerApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bifig\\Desktop\\Facultad dai\\C#\\PrimerApp\\PrimerApp.csproj": {
+    "C:\\Users\\bifig\\Documents\\GitHub\\Proyectos\\C#\\PrimerApp\\PrimerApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bifig\\Desktop\\Facultad dai\\C#\\PrimerApp\\PrimerApp.csproj",
+        "projectUniqueName": "C:\\Users\\bifig\\Documents\\GitHub\\Proyectos\\C#\\PrimerApp\\PrimerApp.csproj",
         "projectName": "PrimerApp",
-        "projectPath": "C:\\Users\\bifig\\Desktop\\Facultad dai\\C#\\PrimerApp\\PrimerApp.csproj",
+        "projectPath": "C:\\Users\\bifig\\Documents\\GitHub\\Proyectos\\C#\\PrimerApp\\PrimerApp.csproj",
         "packagesPath": "C:\\Users\\bifig\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bifig\\Desktop\\Facultad dai\\C#\\PrimerApp\\obj\\",
+        "outputPath": "C:\\Users\\bifig\\Documents\\GitHub\\Proyectos\\C#\\PrimerApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bifig\\AppData\\Roaming\\NuGet\\NuGet.Config",
