@@ -1,0 +1,15 @@
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ValidadPass\bin\Debug\net8.0\ValidadPass.exe
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ValidadPass\bin\Debug\net8.0\ValidadPass.deps.json
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ValidadPass\bin\Debug\net8.0\ValidadPass.runtimeconfig.json
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ValidadPass\bin\Debug\net8.0\ValidadPass.dll
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ValidadPass\bin\Debug\net8.0\ValidadPass.pdb
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ValidadPass\obj\Debug\net8.0\ValidadPass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ValidadPass\obj\Debug\net8.0\ValidadPass.AssemblyInfoInputs.cache
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ValidadPass\obj\Debug\net8.0\ValidadPass.AssemblyInfo.cs
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ValidadPass\obj\Debug\net8.0\ValidadPass.csproj.CoreCompileInputs.cache
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ValidadPass\obj\Debug\net8.0\ValidadPass.sourcelink.json
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ValidadPass\obj\Debug\net8.0\ValidadPass.dll
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ValidadPass\obj\Debug\net8.0\refint\ValidadPass.dll
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ValidadPass\obj\Debug\net8.0\ValidadPass.pdb
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ValidadPass\obj\Debug\net8.0\ValidadPass.genruntimeconfig.cache
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ValidadPass\obj\Debug\net8.0\ref\ValidadPass.dll

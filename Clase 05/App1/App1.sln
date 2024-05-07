@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1", "App1.csproj", "{FFA92586-1A28-4819-AB6A-39EDAC873C4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioCrearUsuario", "..\DesafioCrearUsuario\DesafioCrearUsuario.csproj", "{AC14310A-1EF4-4050-BF56-B4B26D276441}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFA92586-1A28-4819-AB6A-39EDAC873C4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFA92586-1A28-4819-AB6A-39EDAC873C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFA92586-1A28-4819-AB6A-39EDAC873C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFA92586-1A28-4819-AB6A-39EDAC873C4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC14310A-1EF4-4050-BF56-B4B26D276441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC14310A-1EF4-4050-BF56-B4B26D276441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC14310A-1EF4-4050-BF56-B4B26D276441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC14310A-1EF4-4050-BF56-B4B26D276441}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0457D91B-407C-4954-A98E-91992BBB519F}
+	EndGlobalSection
+EndGlobal

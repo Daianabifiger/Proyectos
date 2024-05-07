@@ -1,0 +1,15 @@
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ejemplo01Funciones\bin\Debug\net8.0\ejemplo01Funciones.exe
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ejemplo01Funciones\bin\Debug\net8.0\ejemplo01Funciones.deps.json
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ejemplo01Funciones\bin\Debug\net8.0\ejemplo01Funciones.runtimeconfig.json
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ejemplo01Funciones\bin\Debug\net8.0\ejemplo01Funciones.dll
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ejemplo01Funciones\bin\Debug\net8.0\ejemplo01Funciones.pdb
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ejemplo01Funciones\obj\Debug\net8.0\ejemplo01Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ejemplo01Funciones\obj\Debug\net8.0\ejemplo01Funciones.AssemblyInfoInputs.cache
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ejemplo01Funciones\obj\Debug\net8.0\ejemplo01Funciones.AssemblyInfo.cs
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ejemplo01Funciones\obj\Debug\net8.0\ejemplo01Funciones.csproj.CoreCompileInputs.cache
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ejemplo01Funciones\obj\Debug\net8.0\ejemplo01Funciones.sourcelink.json
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ejemplo01Funciones\obj\Debug\net8.0\ejemplo01Funciones.dll
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ejemplo01Funciones\obj\Debug\net8.0\refint\ejemplo01Funciones.dll
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ejemplo01Funciones\obj\Debug\net8.0\ejemplo01Funciones.pdb
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ejemplo01Funciones\obj\Debug\net8.0\ejemplo01Funciones.genruntimeconfig.cache
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ejemplo01Funciones\obj\Debug\net8.0\ref\ejemplo01Funciones.dll

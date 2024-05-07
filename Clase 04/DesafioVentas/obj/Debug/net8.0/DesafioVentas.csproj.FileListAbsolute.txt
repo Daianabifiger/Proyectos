@@ -1,0 +1,15 @@
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\DesafioVentas\bin\Debug\net8.0\DesafioVentas.exe
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\DesafioVentas\bin\Debug\net8.0\DesafioVentas.deps.json
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\DesafioVentas\bin\Debug\net8.0\DesafioVentas.runtimeconfig.json
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\DesafioVentas\bin\Debug\net8.0\DesafioVentas.dll
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\DesafioVentas\bin\Debug\net8.0\DesafioVentas.pdb
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\DesafioVentas\obj\Debug\net8.0\DesafioVentas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\DesafioVentas\obj\Debug\net8.0\DesafioVentas.AssemblyInfoInputs.cache
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\DesafioVentas\obj\Debug\net8.0\DesafioVentas.AssemblyInfo.cs
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\DesafioVentas\obj\Debug\net8.0\DesafioVentas.csproj.CoreCompileInputs.cache
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\DesafioVentas\obj\Debug\net8.0\DesafioVentas.sourcelink.json
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\DesafioVentas\obj\Debug\net8.0\DesafioVentas.dll
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\DesafioVentas\obj\Debug\net8.0\refint\DesafioVentas.dll
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\DesafioVentas\obj\Debug\net8.0\DesafioVentas.pdb
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\DesafioVentas\obj\Debug\net8.0\DesafioVentas.genruntimeconfig.cache
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\DesafioVentas\obj\Debug\net8.0\ref\DesafioVentas.dll

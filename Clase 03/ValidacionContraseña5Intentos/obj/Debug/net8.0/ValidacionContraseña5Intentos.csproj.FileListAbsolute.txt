@@ -1,0 +1,15 @@
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 03\ValidacionContraseña5Intentos\bin\Debug\net8.0\ValidacionContraseña5Intentos.exe
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 03\ValidacionContraseña5Intentos\bin\Debug\net8.0\ValidacionContraseña5Intentos.deps.json
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 03\ValidacionContraseña5Intentos\bin\Debug\net8.0\ValidacionContraseña5Intentos.runtimeconfig.json
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 03\ValidacionContraseña5Intentos\bin\Debug\net8.0\ValidacionContraseña5Intentos.dll
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 03\ValidacionContraseña5Intentos\bin\Debug\net8.0\ValidacionContraseña5Intentos.pdb
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 03\ValidacionContraseña5Intentos\obj\Debug\net8.0\ValidacionContraseña5Intentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 03\ValidacionContraseña5Intentos\obj\Debug\net8.0\ValidacionContraseña5Intentos.AssemblyInfoInputs.cache
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 03\ValidacionContraseña5Intentos\obj\Debug\net8.0\ValidacionContraseña5Intentos.AssemblyInfo.cs
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 03\ValidacionContraseña5Intentos\obj\Debug\net8.0\ValidacionContraseña5Intentos.csproj.CoreCompileInputs.cache
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 03\ValidacionContraseña5Intentos\obj\Debug\net8.0\ValidacionContraseña5Intentos.sourcelink.json
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 03\ValidacionContraseña5Intentos\obj\Debug\net8.0\ValidacionContraseña5Intentos.dll
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 03\ValidacionContraseña5Intentos\obj\Debug\net8.0\refint\ValidacionContraseña5Intentos.dll
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 03\ValidacionContraseña5Intentos\obj\Debug\net8.0\ValidacionContraseña5Intentos.pdb
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 03\ValidacionContraseña5Intentos\obj\Debug\net8.0\ValidacionContraseña5Intentos.genruntimeconfig.cache
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 03\ValidacionContraseña5Intentos\obj\Debug\net8.0\ref\ValidacionContraseña5Intentos.dll

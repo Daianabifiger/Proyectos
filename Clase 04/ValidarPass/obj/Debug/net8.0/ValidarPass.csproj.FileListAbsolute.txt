@@ -1,0 +1,5 @@
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ValidarPass\obj\Debug\net8.0\ValidarPass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ValidarPass\obj\Debug\net8.0\ValidarPass.AssemblyInfoInputs.cache
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ValidarPass\obj\Debug\net8.0\ValidarPass.AssemblyInfo.cs
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ValidarPass\obj\Debug\net8.0\ValidarPass.csproj.CoreCompileInputs.cache
+C:\Users\bifig\Documents\GitHub\Proyectos\Clase 04\ValidarPass\obj\Debug\net8.0\ValidarPass.sourcelink.json
