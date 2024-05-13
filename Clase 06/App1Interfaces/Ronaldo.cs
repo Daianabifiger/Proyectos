@@ -6,41 +6,47 @@ using System.Threading.Tasks;
 
 namespace App1Interfaces
 {
-    internal class Ronaldo: jugador , Ijugador
+    internal class Ronaldo : Jugador, IJugador
     {
-        public Ronaldo(int velocidad, int tiro, int regate, int defensa, int pase, int fisico) : base (velocidad, tiro, regate, defensa, pase, fisico)
+        public Ronaldo(int velocidad, int tiro, int regate, int defensa, int pase, int fisico) : base(velocidad, tiro, regate, defensa, pase, fisico)
         {
-
         }
 
         public void colocarPase()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Cristiano Ronaldo coloco pase con {0} de propiedad", this.Pase);
+
         }
 
         public void correr()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Cristiano Ronaldo corrio con {0} de propiedad", this.Velocidad);
+
         }
 
         public void defender()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Cristiano Ronaldo defendio con {0} de propiedad", this.Defensa);
+
         }
 
         public void regatear()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Cristiano Ronaldo regateo con {0} de propiedad", this.Regate);
+
         }
 
         public void rematar()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Cristiano Ronaldo remato con {0} de propiedad", this.Tiro);
+
         }
 
         public void soportarEmbate()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Cristiano Ronaldo soporto el emnate con {0} de propiedad", this.Fisico);
+
         }
     }
+}
 }
