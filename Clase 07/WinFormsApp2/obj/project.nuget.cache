@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DDAjrm+dVJjIW0E5/tNdpQ9U72mrlYJmb/+hLoIwumDLRsg+COyzKABBX8eneB7WF1E/+u6oMiCdU+eh6k2kGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bifig\\Documents\\GitHub\\Proyectos\\Clase 07\\WinFormsApp2\\WinFormsApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bifig\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\bifig\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\bifig\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\bifig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
