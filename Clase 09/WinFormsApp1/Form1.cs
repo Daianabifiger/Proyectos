@@ -11,7 +11,7 @@ namespace WinFormsApp1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            string connectionString = "Server=. ; Database=SistemaGestion1 ; Trusted_Connection=true";
+            string connectionString = "Server=. ; Database=SistemaGestion ; Trusted_Connection=true";
             string query = "SELECT Id, Descripciones, Costo, PrecioVenta FROM Producto";
             List<Producto> listProductos = new List<Producto>();
 

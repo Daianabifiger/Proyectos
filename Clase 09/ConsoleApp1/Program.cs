@@ -8,7 +8,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             //En SQLServer para la coneccion es Server=. ---> con un . alcanza
-            string connectionString = "Server=. ; Database=SistemaGestion1 ; Trusted_Connection=true";
+            string connectionString = "Server=. ; Database=SistemaGestion ; Trusted_Connection=true";
             //SQL Express
             //SqlConnection connectionString = @"Server=localhost\SQLEXPRESS ; Database=SistemaGestion2 ; Trusted_Connection=true";
 

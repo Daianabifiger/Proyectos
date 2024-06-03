@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bifig\\Documents\\GitHub\\Proyectos\\Clase 10\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A30C39AE-3259-4DFB-BC68-A061111A8BEC}|ConsoleApp1.csproj|c:\\users\\bifig\\documents\\github\\proyectos\\clase 10\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30C39AE-3259-4DFB-BC68-A061111A8BEC}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30C39AE-3259-4DFB-BC68-A061111A8BEC}|ConsoleApp1.csproj|c:\\users\\bifig\\documents\\github\\proyectos\\clase 10\\consoleapp1\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30C39AE-3259-4DFB-BC68-A061111A8BEC}|ConsoleApp1.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30C39AE-3259-4DFB-BC68-A061111A8BEC}|ConsoleApp1.csproj|c:\\users\\bifig\\documents\\github\\proyectos\\clase 10\\consoleapp1\\database\\gestorbasededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30C39AE-3259-4DFB-BC68-A061111A8BEC}|ConsoleApp1.csproj|solutionrelative:database\\gestorbasededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestorBaseDeDatos.cs",
+              "DocumentMoniker": "C:\\Users\\bifig\\Documents\\GitHub\\Proyectos\\Clase 10\\ConsoleApp1\\DataBase\\GestorBaseDeDatos.cs",
+              "RelativeDocumentMoniker": "DataBase\\GestorBaseDeDatos.cs",
+              "ToolTip": "C:\\Users\\bifig\\Documents\\GitHub\\Proyectos\\Clase 10\\ConsoleApp1\\DataBase\\GestorBaseDeDatos.cs",
+              "RelativeToolTip": "DataBase\\GestorBaseDeDatos.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAAAFcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T23:46:53.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\bifig\\Documents\\GitHub\\Proyectos\\Clase 10\\ConsoleApp1\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\bifig\\Documents\\GitHub\\Proyectos\\Clase 10\\ConsoleApp1\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T23:37:05.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bifig\\Documents\\GitHub\\Proyectos\\Clase 10\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\bifig\\Documents\\GitHub\\Proyectos\\Clase 10\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T23:35:49.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
